@@ -27,7 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '8000-jamiebennett-djangoblog-8l6atgcvf03.ws.codeinstitute-ide.net',
-    '.herokuapp.com'
+    '.herokuapp.com',
 ]
 
 
